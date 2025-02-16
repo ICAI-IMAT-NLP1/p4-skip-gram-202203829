@@ -1,0 +1,6 @@
+Some of the relationships we can see in skipgram_model.png, are the existence of some french words all grouped, probably because some of 
+the texts were in french and those words only shared those texts as input. These words can be found in the top left corner. Also on the 
+left, around 0 we can see several terms related with politics, physolophy and religion, which are topics that are usually related, noticing
+specially a lot of movements ending in ism, which basically share the same spot on the grid. Down in the middle there are words related 
+with the past like ancient or indigenous. These are some of the many relationships found in this picture, which clearly shows how it has 
+been trained properly.
